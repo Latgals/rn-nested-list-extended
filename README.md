@@ -1,5 +1,6 @@
 # React Native Nested List extended
 A React Native UI component for creating and flexible advanced configuration of nested lists with unlimited nesting levels.
-## Details
+
 It works perfectly with lists of any size, including those thay cointain many items.
+
 Based on @natalia.li/react-native-nested-list
